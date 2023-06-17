@@ -1,0 +1,13 @@
+body {
+  margin-top: 20px;
+  display: flex;
+  justify-content: center;
+  background-color: goldenrod;
+  justify-items: center;
+  
+}
+th.street {
+  justify-content: center;
+  margin-right: 3rem;
+}
+
